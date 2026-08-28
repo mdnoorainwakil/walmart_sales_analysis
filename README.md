@@ -55,29 +55,29 @@ MySQL Workbench
 📂 Project Workflow
 
 Raw Dataset
-
      │
      ▼
+     
 Data Cleaning
-
      │
      ▼
+     
 Exploratory Data Analysis (Python)
-
      │
      ▼
+     
 Data Visualization
-
      │
      ▼
+     
 Business Insights
-
      │
      ▼
+     
 MySQL Database
-
      │
      ▼
+     
 SQL Business Analysis
 
 
