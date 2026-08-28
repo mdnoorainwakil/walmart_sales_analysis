@@ -10,23 +10,16 @@ The main objective of this project is to understand sales performance, customer 
 
 🎯 Objectives
 
-The key objectives of this project are:
+ - The key objectives of this project are:
 
-Clean and prepare the raw sales dataset for analysis.
-
-Perform Exploratory Data Analysis (EDA) using Python.
-
-Identify sales and revenue trends.
-
-Analyze category, city, and branch performance.
-
-Study customer ratings and payment behavior.
-
-Identify high-value transactions.
-
-Perform profitability analysis.
-
-Solve business-driven problems using SQL.
+- Clean and prepare the raw sales dataset for analysis.
+- Perform Exploratory Data Analysis (EDA) using Python.
+- Identify sales and revenue trends.
+- Analyze category, city, and branch performance.
+-Study customer ratings and payment behavior.
+-Identify high-value transactions.
+-Perform profitability analysis.
+-Solve business-driven problems using SQL.
 
 Apply important SQL concepts such as aggregate functions, subqueries, window functions, CTEs, views, and date functions.
 
