@@ -13,24 +13,40 @@ The main objective of this project is to understand sales performance, customer 
 The key objectives of this project are:
 
 Clean and prepare the raw sales dataset for analysis.
+
 Perform Exploratory Data Analysis (EDA) using Python.
+
 Identify sales and revenue trends.
+
 Analyze category, city, and branch performance.
+
 Study customer ratings and payment behavior.
+
 Identify high-value transactions.
+
 Perform profitability analysis.
+
 Solve business-driven problems using SQL.
+
 Apply important SQL concepts such as aggregate functions, subqueries, window functions, CTEs, views, and date functions.
 
 🛠️ Technologies Used
+
 Python
+
 Python
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Jupyter Notebook
+
 SQL
+
 MySQL
 MySQL Workbench
 
@@ -66,18 +82,31 @@ The dataset was analyzed using Python and Pandas.
 The analysis included:
 
 Dataset overview and data quality checks
+
 Missing value analysis
+
 Duplicate value checks
+
 Statistical summary
+
 Category-wise revenue analysis
+
 City-wise sales analysis
+
 Branch performance analysis
+
 Payment method analysis
+
 Customer rating analysis
+
 Profit and profit margin analysis
+
 High-value transaction analysis
+
 Revenue versus profit analysis
+
 Rating versus sales analysis
+
 Category and city performance analysis
 
 Visualizations were created to make the insights easier to understand.
@@ -102,52 +131,40 @@ Ranking Functions
 Date Functions
 Common Table Expressions (CTEs)
 Views
-📊 Key Business Questions
 
-The project explores several business problems.
-
-Sales Analysis
-What is the total revenue generated?
-Which categories generate the highest revenue?
-Which cities generate the highest sales?
-Which branches perform the best?
-Customer Analysis
-Which categories receive the highest customer ratings?
-How do ratings relate to sales?
-Which payment methods are preferred by customers?
-Profit Analysis
-Which categories generate the highest profit?
-Which categories have the highest profit margin?
-How does revenue compare with profit?
-Transaction Analysis
-Which transactions are high-value?
-Which transactions are above the average sales value?
-What are the top revenue-generating transactions?
-Time-Based Analysis
-How does sales performance change over time?
-Which dates generate the highest sales?
-How does monthly revenue vary?
-📈 Key Insights
 
 The analysis helps understand:
 
 Revenue performance across categories
+
 Product category performance
+
 Branch and city performance
+
 Customer satisfaction based on ratings
+
 Customer payment preferences
+
 High-value transactions
+
 Profitability trends
+
 Sales trends over time
 
 These insights can help support better business decision-making.
 
 SQL Analysis
+
 Open MySQL Workbench.
+
 Create or select the database.
+
 Import the dataset into MySQL.
+
 Run the SQL business queries.
+
 Analyze the results.
+
 🧠 SQL Concepts Demonstrated
 
 This project demonstrates practical usage of:
@@ -177,18 +194,32 @@ Date Functions
 Through this project, I practiced:
 
 Data Cleaning
+
 Data Analysis
+
 Exploratory Data Analysis
+
 Data Visualization
+
 Business Analysis
+
 SQL Query Writing
+
 Database Management
+
 Aggregate Functions
+
 Subqueries
+
 Window Functions
+
 CTEs
+
 Views
+
 Analytical Thinking
+
+
 🔮 Future Improvements
 
 Possible future improvements include:
@@ -197,6 +228,7 @@ Creating an interactive Power BI dashboard.
 Adding automated reporting.
 Building a web-based analytics dashboard.
 Adding an AI-powered natural language interface for business queries.
+
 👨‍💻 Author
 
 Md Noorain Wakil
