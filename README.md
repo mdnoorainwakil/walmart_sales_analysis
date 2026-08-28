@@ -51,36 +51,9 @@ MySQL
 MySQL Workbench
 
 
+<img width="455" height="505" alt="image" src="https://github.com/user-attachments/assets/0f68eccb-1230-4553-b7d3-e7ec43b90c43" />
 
-📂 Project Workflow
-
-Raw Dataset
-     │
-     ▼
-     
-Data Cleaning
-     │
-     ▼
-     
-Exploratory Data Analysis (Python)
-     │
-     ▼
-     
-Data Visualization
-     │
-     ▼
-     
-Business Insights
-     │
-     ▼
-     
-MySQL Database
-     │
-     ▼
-     
-SQL Business Analysis
-
-
+    
 
 🐍 Exploratory Data Analysis (EDA)
 
